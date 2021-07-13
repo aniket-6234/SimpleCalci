@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243687079851",
+    "project_id": "simple-calci-41300",
+    "storage_bucket": "simple-calci-41300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243687079851:android:9ccb8bb3fcdbc1126f1cee",
+        "android_client_info": {
+          "package_name": "com.example.simplecalci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243687079851-c6gj6phdv4viva37dbj68u11d7v89epj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplecalci",
+            "certificate_hash": "78bc526ca6f0309ce0160a302c69a4904bcfc8fc"
+          }
+        },
+        {
+          "client_id": "243687079851-ojpmvm4hhjscjbd1e409pris0a4g2sgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrsOBJgmz94acYhjY24zAAq41AzrxMNfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243687079851-ojpmvm4hhjscjbd1e409pris0a4g2sgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

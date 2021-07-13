@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/caesar_dressing</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/expletus_sans_bold</item>
+        <item>@font/iceberg</item>
+        <item>@font/reem_kufi</item>
+        <item>@font/warnes</item>
+    </array>
+</resources>
